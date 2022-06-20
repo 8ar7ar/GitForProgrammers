@@ -1,2 +1,2 @@
 # GitForProgrammers
-Playground Repo for my "Git for programmers" book
+Playground Repo for my "Git for programmers" textbook
